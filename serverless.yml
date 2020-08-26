@@ -1,4 +1,4 @@
-mandarincompass-dev:
+mandarincompass-staging:
   component: "@sls-next/serverless-component@1.16.0"
   inputs:
-    domain: ["dev", "mandarincompass.com"] # [ sub-domain, domain ]
+    domain: ["staging", "mandarincompass.com"] # [ sub-domain, domain ]
