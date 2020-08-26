@@ -1,0 +1,17 @@
+{
+  "name": "71vdsl-406pa5",
+  "hash": "/bCCwnqrZbGtND25ZIQdXgrc3f8qD2j5EA4K9v3lMOg=",
+  "description": "API Lambda@Edge for Next CloudFront distribution",
+  "memory": 512,
+  "timeout": 10,
+  "code": "/Users/armandrtz/mandarincompass/.serverless_nextjs/api-lambda",
+  "shims": [],
+  "handler": "index.handler",
+  "runtime": "nodejs12.x",
+  "env": {},
+  "role": {
+    "arn": "arn:aws:iam::211003194503:role/71vdsl-4oks7vp8"
+  },
+  "arn": "arn:aws:lambda:us-east-1:211003194503:function:71vdsl-406pa5",
+  "region": "us-east-1"
+}

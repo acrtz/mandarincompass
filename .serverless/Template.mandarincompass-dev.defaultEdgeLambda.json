@@ -1,0 +1,17 @@
+{
+  "name": "71vdsl-igiidod",
+  "hash": "1rEaAFM/LI8rUF/zGoU5GRTYPiLyWwzeiTQ98n0mIFw=",
+  "description": "Default Lambda@Edge for Next CloudFront distribution",
+  "memory": 512,
+  "timeout": 10,
+  "code": "/Users/armandrtz/mandarincompass/.serverless_nextjs/default-lambda",
+  "shims": [],
+  "handler": "index.handler",
+  "runtime": "nodejs12.x",
+  "env": {},
+  "role": {
+    "arn": "arn:aws:iam::211003194503:role/71vdsl-4dbv9x"
+  },
+  "arn": "arn:aws:lambda:us-east-1:211003194503:function:71vdsl-igiidod",
+  "region": "us-east-1"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "71vdsl-4oks7vp8",
+  "arn": "arn:aws:iam::211003194503:role/71vdsl-4oks7vp8",
+  "service": [
+    "edgelambda.amazonaws.com",
+    "lambda.amazonaws.com"
+  ],
+  "policy": {
+    "arn": "arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole"
+  },
+  "region": "us-east-1"
+}

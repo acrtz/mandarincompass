@@ -1,0 +1,13 @@
+{
+  "region": "us-east-1",
+  "privateZone": false,
+  "domain": "mandarincompass.com",
+  "subdomains": [
+    {
+      "domain": "dev.mandarincompass.com",
+      "distributionId": "EQ85DD6LDZ6PX",
+      "url": "https://d38n237ibgayp7.cloudfront.net",
+      "type": "awsCloudFront"
+    }
+  ]
+}
